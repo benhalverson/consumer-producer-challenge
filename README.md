@@ -1,4 +1,6 @@
 # Requirements
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/benhalverson/consumer-producer-challenge.svg)](https://greenkeeper.io/)
 * The Producer and Consumer as separate NodeJS services.
 * The Producer generating random addition expressions of two positive integers, e.g. "2+3="
 * The Consumer computing and returning the correct mathematical result for the each expression it receives
